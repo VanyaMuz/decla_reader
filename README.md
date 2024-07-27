@@ -13,11 +13,17 @@ Additionally, the program logs information to a .log file. It works quite effici
 The example of .log file:
 
 2024-07-27 20:08:55,614 INFO File D:/41.pdf is open
+
 2024-07-27 20:08:55,614 INFO Start from main
+
 2024-07-27 20:08:55,706 INFO Thread started
+
 2024-07-27 20:08:55,707 INFO Start executing
+
 2024-07-27 20:08:55,989 INFO The line 1 added to df
 
 2024-07-27 20:10:04,081 INFO The line 688 added to df
+
 2024-07-27 20:10:04,093 INFO End executing, decode to excel
+
 2024-07-27 20:10:05,488 INFO Prog ended
